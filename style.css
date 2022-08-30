@@ -1,0 +1,19 @@
+header{
+    background-color: lavender;   
+}
+
+/* main {
+    background: url("https://avatars.githubusercontent.com/u/76944781?v=4");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+} */
+
+.my-card{
+    position: fixed;
+    right: 20px;
+    top: 145px;
+    background-color: lightyellow;
+    border-radius: 10px;
+}
